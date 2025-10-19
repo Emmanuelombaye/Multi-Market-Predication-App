@@ -1,2 +1,4 @@
 *.agdai
 MAlonzo/**
+config.bat
+node_modules
